@@ -2,6 +2,8 @@
 <p>Our vision for BioRevive: New Horizons was to imagine an optimistic future for the Earth in 2100. Although humanity’s use of fossil fuels and destruction of habitats will wreak havoc on Earth’s ecosystems, humanity’s innovation can restore these ecosystems. </p>
 <p>We wanted to show how a wide variety of sciences – bioengineering, agriculture, technology – could come together to restore the Earth’s ecosystems. We also wanted to show a range of technologies used in each ecosystem, especially the Australian coral reefs, Brazilian rainforests, and the Arctic. Also, in the future, feeding an estimated population of up to 11.2 billion people will be more difficult. We wanted to address this with the inclusion of a futuristic farm.</p>
 <p>The design of the game allows the player to jump between different ecosystems and restore them.</p>
+<h2>Gameplay</h2>
+<a href = "https://drive.google.com/file/d/1aiSb_xOpehhaoqHUB5-iColdQuoPl5wQ/view?usp=drive_link">BioRevive Gameplay</a> involves a repetitive cycle with key differences across each ecosystem that is restored. As the restoration specialist, you arrive in an ecosystem fully destroyed. You are able to earn money by completing restorative tasks like releasing extinct species, freezing the arctic, and growing the Coral reefs. In each game, you work in a biotech lab, where you are able to create your own organisms by fully customizing the genome of lab-generated cells
 
 <h2>Coral Reef</h2>
 <img width="956" height="539" alt="image" src="https://github.com/user-attachments/assets/bfaf757a-8baa-447f-aedc-5623a6437b9a" />
